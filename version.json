@@ -1,0 +1,8 @@
+{
+  "version": "1.5.1",
+  "downloadUrl": "https://github.com/confession-manager-app/confession-manager-app.github.io/releases/download/v1.5.1/app-release.apk",
+  "releaseNotes": {
+    "en": "Improvements to stability and data backup.",
+    "ar": "تحسينات في الاستقرار والنسخ الاحتياطي للبيانات."
+  }
+}
